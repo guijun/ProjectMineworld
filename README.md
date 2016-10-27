@@ -46,6 +46,6 @@
         √未知的内容等待您来探索
         
 ========
-        ● 方块世界Cubeworld―免费的Minecraft! 全力突破各种性能瓶颈,为您在移动设备(Mobile Phone, Tab)上提供Minecraft PC级的内容，所有这些都是免费的(Free)，希望得到大家的支持和鼓励(Rating & Reviews)，我们将一如既往的持续完善和改进游戏内容，为大家的创造良好的游戏体验！
-        ● 您可以将您的意见和建议通过 [电子邮件](mailto:projectmineworld@gmail.com) 发送给我们，我们会及时回复。
-        ● 您也可以提交到 [github.com](https://github.com/guijun/ProjectMineworld/issues) 。
+● 方块世界Cubeworld―免费的Minecraft! 全力突破各种性能瓶颈,为您在移动设备(Mobile Phone, Tab)上提供Minecraft PC级的内容，所有这些都是免费的(Free)，希望得到大家的支持和鼓励(Rating & Reviews)，我们将一如既往的持续完善和改进游戏内容，为大家的创造良好的游戏体验！
+● 您可以将您的意见和建议通过 [电子邮件](mailto:projectmineworld@gmail.com) 发送给我们，我们会及时回复。
+● 您也可以提交到 [github.com](https://github.com/guijun/ProjectMineworld/issues) 。
