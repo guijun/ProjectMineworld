@@ -1,5 +1,8 @@
-[![gpdownload]](https://play.google.com/store/apps/details?id=com.mineworld.mwpe.admob&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
+[![gpdownload]](https://play.google.com/store/apps/details?id=com.mineworld.mwpe.gpcn&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
 [gpdownload]:https://play.google.com/intl/en_us/badges/images/generic/zh-cn_badge_web_generic.png "即刻获取 Google Play"
+[![gpdownload]](https://play.google.com/store/apps/details?id=com.mineworld.mwpe.gpen&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
+[gpdownload]:https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png "GET IT ON Google Play"
+
 *★介绍(Description)★*
 ========
         ● 受Minecraft启发，我们创建了方块世界Cubeworld―免费的Minecraft VR!
